@@ -33,7 +33,9 @@ header .logo {
 header nav a {
   color: #aaa;
   text-decoration: none;
-  font-size: 14px;
+  font-size: 17px;
+  margin-right: 10px;
+  font-family: "Arial Black", Times;
 }
 
 header nav a:hover {
@@ -100,4 +102,8 @@ header nav a:hover {
   height: 100%;
   width: 100%;
   display: block;
+}
+
+.carrosel-filmes {
+  margin-top: 5px;
 }
